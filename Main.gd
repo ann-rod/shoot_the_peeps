@@ -1,10 +1,14 @@
 extends Node
 
 export(PackedScene) var mob_scene
+onready var jet_manager = $JetManager
+onready var player = $Player
 var score
 
 func _ready():
 	randomize()
+	
+	player.connect("player_fired_jet", jet_manager, "handle_jet_spawned")
 	
 func game_over():
 	$ScoreTimer.stop()
