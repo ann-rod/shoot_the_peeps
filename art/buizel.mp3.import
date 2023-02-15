@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/buizel.mp3-2b5340343be5515a52a8f4eb23418472.mp3str"
+
+[deps]
+
+source_file="res://art/buizel.mp3"
+dest_files=[ "res://.import/buizel.mp3-2b5340343be5515a52a8f4eb23418472.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/pokemon_battle.mp3-119fef7636ecba6a994143cc626ef3fc.mp3str"
+
+[deps]
+
+source_file="res://art/pokemon_battle.mp3"
+dest_files=[ "res://.import/pokemon_battle.mp3-119fef7636ecba6a994143cc626ef3fc.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
